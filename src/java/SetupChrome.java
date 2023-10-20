@@ -19,8 +19,9 @@ public class SetupChrome {
      driver.get("https://www.example.com");
      // ...
 
-     // Quit the WebDriver when done
-     driver.quit();
-
+    // Quit the WebDriver when done
+     
+driver.quit();
+//Finally Done
 }
 }
